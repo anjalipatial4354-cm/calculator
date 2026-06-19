@@ -10,7 +10,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #61939f;
+  background:white;
 }
 
 .calculator{
